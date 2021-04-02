@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sukhbir Sekhon</h1>
-<h3 align="center">A passionate tech-savvy person or just an IT guy!</h3> 
-
-![](https://visitor-badge.glitch.me/badge?page_id=sukhbirsekhon.sukhbirsekhon)
+<h3 align="center">A passionate tech-savvy person or just an IT guy!</h3> ![](https://visitor-badge.glitch.me/badge?page_id=sukhbirsekhon.sukhbirsekhon)
 
 - 🔭 I’m currently working on **Finance Tracker Project**
 
