@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/sukhbirsekhon](https://dev.to/sukhbirsekhon)
 
-- 💬 Ask me about **Java, C#, Javascript, Node, Docker, Azure,**
+- 💬 Ask me about **Java, C#, Javascript, Node, Docker, Azure**
 
 - 📫 How to reach me **sukhbirsekhon3939@gmail.com**
 
