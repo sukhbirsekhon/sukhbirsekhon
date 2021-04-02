@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sukhbir Sekhon</h1>
-<h3 align="center">A passionate tech-savvy person or just an IT guy!</h3>
+<h3 align="center">A passionate tech-savvy person or just an IT guy!</h3> 
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/sukhbirsekhon.gif?z=6)](https://github4life.herokuapp.com/sukhbirsekhon)
-
+![](https://visitor-badge.glitch.me/badge?page_id=sukhbirsekhon.sukhbirsekhon)
 
 - 🔭 I’m currently working on **Finance Tracker Project**
 
