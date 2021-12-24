@@ -3,7 +3,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sukhbirsekhon.sukhbirsekhon)
 
-- 🔭 I’m currently working on **Finance Tracker Project**
+- 🔭 I’m currently working on **Inventory Management System**
 
 - 👨‍💻 Check out my website [https://sukhbirsekhon.herokuapp.com/](https://sukhbirsekhon.herokuapp.com/)
 
